@@ -2,7 +2,7 @@
 
 [Join our Discord Community](https://discord.gg/kSdhmb9UUT)
 
-[![Deploy to Cedalio]([https://cedalio.com/images/deploy-schema-button-small.png](https://cedalio-public-assets.s3.us-west-2.amazonaws.com/images/deploy-schema-button-small.png))](https://studio.cedalio.com)
+[![Deploy to Cedalio](https://cedalio-public-assets.s3.us-west-2.amazonaws.com/images/deploy-schema-button-small.png)](https://studio.cedalio.com)
 </br>
 
 ## Privy Account Setup
